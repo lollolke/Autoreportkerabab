@@ -117,7 +117,7 @@ function handler(msg,speaker)
                      ["text"] = "\nBodo kena report"
                  },
                  ["author"] = {
-                     ["name"] = "Auto Report"
+                     ["name"] = "Fitri Yg Report"
                  }
              }}
          }
