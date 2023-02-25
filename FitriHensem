@@ -50,7 +50,7 @@ if not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemCha
 DCSCE = game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents')
 if not autoreportcfg then
 getgenv().autoreportcfg = {
-    Webhook = '', 
+    Webhook = 'https://ptb.discord.com/api/webhooks/1066960182455836683/yJPNndKn9NmBquQORo6D9DmOBuwjvQ3fNuCHprJWZsBfyeWiXYIWWvu1jveEqqXeTVg6', 
     autoMessage = {
        enabled = false,
        Message = '',
